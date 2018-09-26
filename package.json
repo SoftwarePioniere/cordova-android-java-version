@@ -1,0 +1,19 @@
+{
+    "license": "Apache-2.0",
+    "engines": [
+        {
+            "version": ">=6.4.0",
+            "name": "cordova-android"
+        }
+    ],
+    "name": "cordova-android-java-version",
+    "version": "1.0.0",
+    "keywords": [
+    ],
+    "cordova": {
+        "platforms": [
+            "android"
+        ],
+        "id": "cordova-android-java-version"
+    }
+}
